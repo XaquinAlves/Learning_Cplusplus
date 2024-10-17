@@ -7,10 +7,10 @@ int main(){
     cout << "Dime tu cancion favorita, en minusculas: ";
     getline(cin,cancion);
     if(cancion == "dracukeo el empalador"){
-        cout << "lit";
+        cout << "lit" << endl;
     }
     else{
-        cout << "meh";
+        cout << "meh" << endl;
     }
 
     return 0;
